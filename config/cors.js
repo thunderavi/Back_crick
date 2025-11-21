@@ -2,7 +2,7 @@
 module.exports = {
   allowedOrigins: [
     'https://score-board-seven-tawny.vercel.app',
-    'https://cricket-cast.vercel.app/',
+    'https://cricket-cast.vercel.app',  // ✅ REMOVED trailing slash
     'http://localhost:3000',
     'http://localhost:5173',
     'http://localhost:5174',
