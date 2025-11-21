@@ -2,7 +2,7 @@
 module.exports = {
   allowedOrigins: [
     'https://score-board-seven-tawny.vercel.app',
-    'https://live-commentry-45qj.vercel.app/',
+    'https://cricket-cast.vercel.app/',
     'http://localhost:3000',
     'http://localhost:5173',
     'http://localhost:5174',
